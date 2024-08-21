@@ -1,0 +1,3 @@
+This is an example of using FileWriter to write text to a file.
+FileWriter is part of java.io package.
+It writes text files in the default encoding.
