@@ -1,0 +1,3 @@
+This is an example of using BufferedWriter to write text to a file.
+BufferedWriter is used for efficient writing of characters.
+It also supports writing multiple lines of text easily.
